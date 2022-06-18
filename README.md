@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anjani's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjanikshree12&hide=stars,issues&include_all_commits)](https://github.com/anuraghazra/github-readme-stats)
+[![Anjani's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjanikshree12&hide=stars,issues&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **anjanikshree12/anjanikshree12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

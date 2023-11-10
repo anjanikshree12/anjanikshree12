@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![Anjani's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjanikshree12&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)         
+[![Anjani's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjanikshree12&hide=stars,issues&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)    
+
 [![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@rphi)
 <!-- ![](https://komarev.com/ghpvc/?username=anjanikshree12&style=for-the-badge) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjanikshree12)](https://github.com/anuraghazra/github-readme-stats) -->
